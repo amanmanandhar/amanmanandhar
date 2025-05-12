@@ -1,6 +1,2 @@
-![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png)
-![Odoo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/odoo.png)
-![HTML](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png)
-![CSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png)
-![NumPy](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png)
-![Pandas](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png)
+👋 Hi there! I'm Aman Manandhar
+I'm currently pursuing a Bachelor's in Computer Applications and working as a Python (Odoo) Developer at DebugSoft. Passionate about building efficient solutions and continuously learning new technologies.
