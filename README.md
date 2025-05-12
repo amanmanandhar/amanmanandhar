@@ -10,7 +10,6 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="90" alt="CSS" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" width="90" alt="NumPy" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="90" alt="Pandas" /></span>
-
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="90" alt="FastAPI" /></span>
 </p>
 
