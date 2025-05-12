@@ -13,10 +13,10 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
 </p>
 
 <p align="center">
-  <span>Python</span>&nbsp;&nbsp;&nbsp;
-  <span>Odoo</span>&nbsp;&nbsp;&nbsp;
-  <span>HTML</span>&nbsp;&nbsp;&nbsp;
-  <span>CSS</span>&nbsp;&nbsp;&nbsp;
-  <span>NumPy</span>&nbsp;&nbsp;&nbsp;
+  <span>Python</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Odoo</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>HTML</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>CSS</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>NumPy</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span>Pandas</span>
 </p>
