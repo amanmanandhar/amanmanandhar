@@ -10,7 +10,7 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="90" alt="CSS" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" width="90" alt="NumPy" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="90" alt="Pandas" /></span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="30" height="30" style="margin-right: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="30" height="30" style="margin-right: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="30" height="30" style="margin-right: 10px;" />:contentReference[oaicite:17]{index=17}
+
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="90" alt="FastAPI" /></span>
 </p>
 
