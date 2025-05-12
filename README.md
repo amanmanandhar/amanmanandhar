@@ -10,6 +10,8 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="50" alt="CSS" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" width="50" alt="NumPy" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="50" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="50" alt="Django" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/FastAPI_logo.svg" width="50" alt="FastAPI" />
 </p>
 
 <p align="center">
@@ -18,5 +20,7 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
   <span>HTML</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span>CSS</span>&nbsp;&nbsp;&nbsp;&nbsp;
   <span>NumPy</span>&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Pandas</span>
+  <span>Pandas</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Django</span>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>FastAPI</span>
 </p>
