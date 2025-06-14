@@ -8,13 +8,12 @@
 - Working on **Machine Learning** projects and data-driven solutions
 - Automating tasks and crafting clean, maintainable Python code
 
-🧠 I'm always expanding my skills in **Python, Odoo, Django, and Machine Learning**, and exploring new technologies to deliver better solutions.  
-🏢 I'm currently working at **Debugsoft Pvt. Ltd.**  
-🚀 I'm open to **new opportunities** and eager to collaborate on exciting projects.
 
 📫 **Let's connect!**  
 Feel free to reach out if you'd like to work together or just chat about tech!
 
+🌐 **Socials:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-manandhar-003a83266)
 
 ## 🧰 My Tech Stack
 
