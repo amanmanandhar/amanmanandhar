@@ -12,21 +12,24 @@
 📫 **Let's connect!**  
 Feel free to reach out if you'd like to work together or just chat about tech!
 
+
 🌐 **Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-manandhar-003a83266)
 
-## 🧰 My Tech Stack
 
-<p align="center">
- <span> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="90" alt="Python" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/odoo.png" width="90" alt="Odoo" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="90" alt="HTML" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="90" alt="CSS" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" width="90" alt="NumPy" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" width="90" alt="Pandas" /></span>
-  <span><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django Logo" width="90"/></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="90" alt="FastAPI" /></span>
+💻 **Tech Stack:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Odoo-7A0C41?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/OWL JS-FF8800?style=for-the-badge" alt="OWL JS"/>
 </p>
+
 
 ## 📊 GitHub Stats
 
