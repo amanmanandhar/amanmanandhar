@@ -1,6 +1,6 @@
 💫 **About Me**
 
-👋 Hi, I'm a **Python (Odoo/Django/ML) Developer** passionate about building powerful and user-friendly business solutions. I specialize in designing and developing scalable applications using **Python**, **Odoo**, **Django**, and **Machine Learning**, turning complex requirements into elegant code.
+👋 Hi, I'm a **Python (Odoo/Django/) Developer** passionate about building powerful and user-friendly business solutions. I specialize in designing and developing scalable applications using **Python**, **Odoo**, **Django**, and **Machine Learning**, turning complex requirements into elegant code.
 
 ⚙️ I enjoy:
 - Creating custom modules and apps in **Odoo**
