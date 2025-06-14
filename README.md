@@ -14,3 +14,12 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="90" alt="FastAPI" /></span>
 </p>
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmanandhar&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=amanmanandhar&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmanandhar&layout=compact&theme=dark)
+
+
