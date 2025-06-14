@@ -1,5 +1,20 @@
-👋 Hi there! I'm Aman Manandhar
-I'm currently pursuing a Bachelor's in Computer Applications and working as a Python (Odoo) Developer at DebugSoft. Passionate about building efficient solutions and continuously learning new technologies.
+💫 **About Me**
+
+👋 Hi, I'm a **Python (Odoo/Django/ML) Developer** passionate about building powerful and user-friendly business solutions. I specialize in designing and developing scalable applications using **Python**, **Odoo**, **Django**, and **Machine Learning**, turning complex requirements into elegant code.
+
+⚙️ I enjoy:
+- Creating custom modules and apps in **Odoo**
+- Developing APIs and dynamic web applications in **Django**
+- Working on **Machine Learning** projects and data-driven solutions
+- Automating tasks and crafting clean, maintainable Python code
+
+🧠 I'm always expanding my skills in **Python, Odoo, Django, and Machine Learning**, and exploring new technologies to deliver better solutions.  
+🏢 I'm currently working at **Debugsoft Pvt. Ltd.**  
+🚀 I'm open to **new opportunities** and eager to collaborate on exciting projects.
+
+📫 **Let's connect!**  
+Feel free to reach out if you'd like to work together or just chat about tech!
+
 
 ## 🧰 My Tech Stack
 
