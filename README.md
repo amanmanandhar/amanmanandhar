@@ -23,3 +23,9 @@ I'm currently pursuing a Bachelor's in Computer Applications and working as a Py
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmanandhar&layout=compact&theme=dark)
 
 
+> 💡 **Without data, you're just another person with an opinion.**
+> 
+> — *W. Edwards Deming*
+
+
+
